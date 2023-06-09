@@ -41,6 +41,6 @@ This repository includes the following methods:
 - Newton
 - Secant
 
-### differential equation solving methods
+### Differential equation solving methods
 - Explicit Euler
 - Implicit Euler
